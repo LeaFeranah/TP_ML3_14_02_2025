@@ -9,4 +9,6 @@ RAKOTOMALALA Aina Anjaratiana		     54			Partie3
 
 Explications:
 
-Nous avons conçu le jeu Fanorona Telo. Comme la description dans notre sujet, le jeu se déroule sur un plateau de 3x3 lignes se croisant avec les diagonales. LeS joueurs jouent aléatoirement. Les joueurs ont le pouvoir de poser le pion de base. Nous avons utilisé le langage de programmation python pour l'interface graphique. Le "Jupiter" de l'Anaconda nous a rendu service pour le machine learning.
+Nous avons conçu le jeu Fanorona Telo. Comme la description dans notre sujet, le jeu se déroule sur un plateau de 3x3 lignes se croisant avec les diagonales. Les joueurs jouent aléatoirement. Les joueurs ont le pouvoir de poser le pion de base. Nous avons utilisé le langage de programmation python pour l'interface graphique. Le "Jupiter" de l'Anaconda nous a rendu service pour le machine learning.
+Pour lancer ce jeu, il faut lancer le fichier main.py (partie1 et partie2)
+Et la partie3 se trouve dans le fichier nommé "partie3ml.ipynb"
